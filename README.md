@@ -3,4 +3,4 @@
 
 # demo:
 
-quack-cart.surge.sh
+http://quack-cart.surge.sh/
